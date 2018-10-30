@@ -1,0 +1,7 @@
+Changed bluetooth.service file from
+
+ExecStart=/usr/libexec/bluetooth/bluetoothd
+
+to
+
+ExecStart=/usr/libexec/bluetooth/bluetoothd --compat

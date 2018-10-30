@@ -1,0 +1,13 @@
+standard output
+connecting to "MyApp" on F0:43:47:51:71:B1
+Traceback (most recent call last):
+  File "<string>", line 3, in listen
+_bluetooth.error: (77, 'File descriptor in bad state')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/robot/LeoReceiver2.py", line 30, in <module>
+    sock.listen(1)
+  File "<string>", line 5, in listen
+bluetooth.btcommon.BluetoothError: (77, 'File descriptor in bad state')
