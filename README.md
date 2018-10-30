@@ -11,4 +11,8 @@ user and Leo is that people benefit from congruent multi-sensory information. Le
 detection and table edge detection abilities which make sure it faces the user and doesn’t fall off the
 table.
 
+[User Guide](https://github.com/stylianosnicoletti/Leonidas-Assistive-Robot/blob/master/Docs/User%20Guide.pdf) <br />
+<br />
+[Technical Report](https://github.com/stylianosnicoletti/Leonidas-Assistive-Robot/blob/master/Docs/Technical%20Report.pdf) <br />
+<br />
 ![Alt text](https://github.com/stylianosnicoletti/Leonidas-Assistive-Robot/blob/master/Screenshots/poster.png?raw=true)
